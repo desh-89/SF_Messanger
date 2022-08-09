@@ -12,11 +12,11 @@
 Для запуска сервера необходим IDE, в котором установить фреймворк Django
 и следующие библиотеки:
 
-pip install django
-pip install djangorestframework
-pip install django-cors-headers
-pip install easy-thumbnails 
-pip install channels
+ pip install django
+ pip install djangorestframework
+ pip install django-cors-headers
+ pip install easy-thumbnails 
+ pip install channels
 
 Запуск сервера: python manage.py runserver
 
